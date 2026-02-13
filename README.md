@@ -7,7 +7,7 @@ It performs basic arithmetic operations with a clean modern UI and smooth animat
 
 ## Live Demo
 
-👉 [Click here to use the calculator](PASTE_YOUR_LIVE_LINK_HERE)
+    https://effulgent-platypus-e03593.netlify.app/
 
 ---
 
